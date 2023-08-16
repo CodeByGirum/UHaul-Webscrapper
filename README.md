@@ -1,5 +1,5 @@
 
-# UHaul Web Scraper
+# U-Haul WebScraper
 
 ## Description
 This script automates the process of web scraping using the Selenium library in Python. It uses the Chrome browser to fetch data from a webpage based on inputs provided in a CSV file.
