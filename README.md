@@ -44,9 +44,10 @@ pip install selenium pandas
 Example for `input.csv`:
 
 ```
-Pick Up Location, Drop-Off Location
-New York City, NY, Los Angeles, CA
-...
+| Pick Up Location  | Drop-Off Location      |
+|-------------------|------------------------|
+| New York City, NY | Los Angeles, CA        |
+
 ```
 
 2. Run the script:
