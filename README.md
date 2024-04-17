@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The U-Haul WebScraper is a Python-based automation tool designed to fetch targeted pricing information directly from U-Haul's official website. Manually gathering this data can be both tedious and prone to errors. This script efficiently streamlines the data extraction process by leveraging Python's powerful libraries. Its primary focus is capturing details corresponding to the 'Pick Up Location' and 'Drop Off Location' for U-Haul truck rentals.
+The U-Haul WebScraper is a Python-based automation application designed to fetch targeted pricing information directly from U-Haul's official website. Manually gathering this data can be both tedious and prone to errors. This script efficiently streamlines the data extraction process by leveraging Python's powerful libraries. Its primary focus is capturing details corresponding to the 'Pick Up Location' and 'Drop Off Location' for U-Haul truck rentals.
 
 ## Objective
 
